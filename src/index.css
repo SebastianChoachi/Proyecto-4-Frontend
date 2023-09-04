@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+ul {
+  list-style-type: none;
+}
+
+.itemcarrito {
+  border-bottom: '1px solid black'; 
+  padding: '10px 0'; 
+}
+
+.botonComprar{
+  margin-top: 10%;
+  align-items: center;
+  margin-left: 5%;
+}
+
+.botonCarrito{
+  margin-left: 10px;
+}
